@@ -1,0 +1,171 @@
+body {
+
+    background: rgb(0,0,0);
+    background: linear-gradient(146deg, rgba(0,0,0,1) 0%, rgba(40,45,46,1) 56%, rgba(0,0,0,1) 100%);
+}
+
+
+
+
+
+h3 {
+
+color: white;
+
+}
+
+
+p1 {
+
+color: white;
+
+}
+
+
+
+
+
+p2 {
+
+color: white;
+
+
+}
+
+
+.carousel-caption-custom {
+    position: absolute;
+    bottom: 5%;   
+    left: 3%;     
+    z-index: 20;  
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,.6); 
+    border-radius: 25px; 
+    padding: 10px 20px; 
+    max-width: 90%; 
+}
+
+h1 {
+    font-size: 9vw; 
+    margin: 0; 
+}
+
+
+ 
+
+
+.d-block w-100 {
+
+    size: 110%;
+
+
+}
+  
+p3 {
+
+color: white;
+
+}
+
+h2 {
+
+color: white;
+text-align: center;
+size: 30px;
+
+
+}
+
+
+p4 {
+
+color: white;
+
+}
+
+p5 {
+
+color: white;
+
+}
+
+
+.wojtek-mic {
+
+float: left;
+height: 300px;
+width: 200px;
+margin: 15px;
+border-radius: 15%;
+
+
+
+}
+
+.bibliografie {
+
+color: white;
+
+}
+
+.main-footer {
+
+color: white;
+
+}
+
+.text-footer {
+
+text-align: center;
+
+
+}
+
+
+
+.povestea-wojtek {
+
+text-align: justify;
+margin-right: 15px;
+margin-left: 15px; 
+
+}
+
+.monte-cassino {
+
+    text-align: justify;
+margin-right: 15px;
+margin-left: 15px; 
+
+}
+
+.scotia {
+
+    text-align: justify;
+margin-right: 15px;
+margin-left: 15px; 
+
+}
+
+.concluzie {
+
+    text-align: justify;
+    margin-right: 15px;
+    margin-left: 15px; 
+
+}
+
+.bibliografie {
+
+    margin-right: 15px;
+    margin-left: 15px; 
+
+}
+
+.haisalut {
+
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0);
+    
+    }
